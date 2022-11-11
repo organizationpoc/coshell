@@ -1,8 +1,0 @@
-5.9.2022: test deployment for this services testveraplatform,testveraplatformapiapp,testveraplatformidentityserver,testthurlshortenservice  and tried to implement poc for Branch rules and Branch security policy.
-6.9.2022: Implemented Branch rules and Branch security policy for development,test,production enviroinment.
-7.9.2022: Worked on test deployment for testthveraappointmentapp service.
-8.9.2022: test deployement for testcareteam,testcareteamdesktop,testvwhth,testvccthand fixed patient 360 sonar webapp issue
-9.9.2022: test deployment for testveraplatform,testthveraappointmentapp,testthmdappointmentapp
-
-
-
